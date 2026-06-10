@@ -2,11 +2,11 @@ I make local-first AI and desktop tools, mostly around images, voice, files, not
 
 Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the thing working.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-000000?style=flat-square&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
 
 ## Projects
 
