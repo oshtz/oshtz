@@ -18,6 +18,6 @@ Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the 
 - 🧠 **[brainbox](https://github.com/oshtz/brainbox)** - local links and notes
 - 📊 **[benchmaker](https://github.com/oshtz/benchmaker)** - visual LLM benchmarking
 - 📁 **[explorie](https://github.com/oshtz/explorie)** - file manager for Windows and macOS
-- 🗂️ **[keepdir](https://github.com/oshtz/keepdir)** - AI file sorting
+- 🗂️ **[keepdir](https://github.com/oshtz/keepdir)** - rules-first file sorting
 - 🎛️ **[motif](https://github.com/oshtz/motif)** - LLM UI experiments
 - 🌐 **[sumtab](https://github.com/oshtz/sumtab)** - browser tab summaries
