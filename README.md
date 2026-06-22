@@ -13,6 +13,7 @@ Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the 
 - 🎙️ **[dybur](https://github.com/oshtz/dybur)** - local voice dictation
 - 🧩 **[noder](https://github.com/oshtz/noder)** - node-based AI workflow canvas
 - 🖼️ **[imgimg](https://github.com/oshtz/imgimg)** - AI generation workspace for images, video, and audio
+- 🧰 **[openexpress](https://github.com/oshtz/openexpress)** - local image, video, PDF, and audio tools
 - 🏷️ **[tagmeister](https://github.com/oshtz/tagmeister)** - image captioning with local and cloud models
 - 🔌 **[ComfyUI-oshtz-nodes](https://github.com/oshtz/ComfyUI-oshtz-nodes)** - custom ComfyUI nodes
 - 🧠 **[brainbox](https://github.com/oshtz/brainbox)** - local links and notes
