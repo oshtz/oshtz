@@ -10,7 +10,6 @@ Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the 
 
 ## Projects
 
-- 🌲 **[cedar](https://github.com/oshtz/cedar)** - Cloudflare audit reports
 - 🎙️ **[dybur](https://github.com/oshtz/dybur)** - local voice dictation
 - 🧩 **[noder](https://github.com/oshtz/noder)** - node-based AI workflow canvas
 - 🖼️ **[imgimg](https://github.com/oshtz/imgimg)** - AI generation workspace for images, video, and audio
@@ -23,3 +22,4 @@ Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the 
 - 🗂️ **[keepdir](https://github.com/oshtz/keepdir)** - rules-first file sorting
 - 🎛️ **[motif](https://github.com/oshtz/motif)** - LLM UI experiments
 - 🌐 **[sumtab](https://github.com/oshtz/sumtab)** - browser tab summaries
+- 🌲 **[cedar](https://github.com/oshtz/cedar)** - Cloudflare audit reports
