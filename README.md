@@ -22,4 +22,5 @@ Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the 
 - 🗂️ **[keepdir](https://github.com/oshtz/keepdir)** - rules-first file sorting
 - 🎛️ **[motif](https://github.com/oshtz/motif)** - LLM UI experiments
 - 🌐 **[sumtab](https://github.com/oshtz/sumtab)** - browser tab summaries
+- 🧭 **[aid](https://github.com/oshtz/aid)** - AI side panel for Chrome and Firefox
 - 🌲 **[cedar](https://github.com/oshtz/cedar)** - Cloudflare audit reports
