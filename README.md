@@ -10,6 +10,7 @@ Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the 
 
 ## Projects
 
+- **[milim](https://github.com/oshtz/milim)** - local AI desktop workbench for multiple models
 - 🎙️ **[dybur](https://github.com/oshtz/dybur)** - local voice dictation
 - 🧩 **[noder](https://github.com/oshtz/noder)** - node-based AI workflow canvas
 - 🖼️ **[imgimg](https://github.com/oshtz/imgimg)** - AI generation workspace for images, video, and audio
