@@ -11,17 +11,17 @@ Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the 
 ## Projects
 
 - **[milim](https://github.com/oshtz/milim)** - local AI desktop workbench for multiple models
-- 🎙️ **[dybur](https://github.com/oshtz/dybur)** - local voice dictation
-- 🧩 **[noder](https://github.com/oshtz/noder)** - node-based AI workflow canvas
-- 🖼️ **[imgimg](https://github.com/oshtz/imgimg)** - AI generation workspace for images, video, and audio
-- 🧰 **[openexpress](https://github.com/oshtz/openexpress)** - local image, video, PDF, and audio tools
-- 🏷️ **[tagmeister](https://github.com/oshtz/tagmeister)** - image captioning with local and cloud models
-- 🔌 **[ComfyUI-oshtz-nodes](https://github.com/oshtz/ComfyUI-oshtz-nodes)** - custom ComfyUI nodes
-- 🧠 **[brainbox](https://github.com/oshtz/brainbox)** - local links and notes
-- 📊 **[benchmaker](https://github.com/oshtz/benchmaker)** - visual LLM benchmarking
-- 📁 **[explorie](https://github.com/oshtz/explorie)** - file manager for Windows and macOS
-- 🗂️ **[keepdir](https://github.com/oshtz/keepdir)** - rules-first file sorting
-- 🎛️ **[motif](https://github.com/oshtz/motif)** - LLM UI experiments
-- 🌐 **[sumtab](https://github.com/oshtz/sumtab)** - browser tab summaries
-- 🧭 **[aid](https://github.com/oshtz/aid)** - AI side panel for Chrome and Firefox
-- 🌲 **[cedar](https://github.com/oshtz/cedar)** - Cloudflare audit reports
+- **[dybur](https://github.com/oshtz/dybur)** - local voice dictation
+- **[noder](https://github.com/oshtz/noder)** - node-based AI workflow canvas
+- **[imgimg](https://github.com/oshtz/imgimg)** - AI generation workspace for images, video, and audio
+- **[openexpress](https://github.com/oshtz/openexpress)** - local image, video, PDF, and audio tools
+- **[tagmeister](https://github.com/oshtz/tagmeister)** - image captioning with local and cloud models
+- **[ComfyUI-oshtz-nodes](https://github.com/oshtz/ComfyUI-oshtz-nodes)** - custom ComfyUI nodes
+- **[brainbox](https://github.com/oshtz/brainbox)** - local links and notes
+- **[benchmaker](https://github.com/oshtz/benchmaker)** - visual LLM benchmarking
+- **[explorie](https://github.com/oshtz/explorie)** - file manager for Windows and macOS
+- **[keepdir](https://github.com/oshtz/keepdir)** - rules-first file sorting
+- **[motif](https://github.com/oshtz/motif)** - LLM UI experiments
+- **[sumtab](https://github.com/oshtz/sumtab)** - browser tab summaries
+- **[aid](https://github.com/oshtz/aid)** - AI side panel for Chrome and Firefox
+- **[cedar](https://github.com/oshtz/cedar)** - Cloudflare audit reports
