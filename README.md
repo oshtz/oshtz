@@ -1,7 +1,5 @@
 I make local-first AI and desktop tools, mostly around images, voice, files, notes, and creative workflows.
 
-Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the thing working.
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
