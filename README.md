@@ -5,8 +5,10 @@ Mostly using TypeScript, Rust, Python, Tauri, React, and whatever else gets the 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-000000?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square&logo=swift&logoColor=white)
 
 ## Projects
 
