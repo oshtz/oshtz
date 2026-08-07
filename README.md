@@ -10,7 +10,7 @@ I make local-first AI and desktop tools, mostly around images, voice, files, not
 
 ## Projects
 
-- **[milim](https://github.com/oshtz/milim)** - local AI desktop workbench for multiple models
+- **[milim](https://github.com/bildhaus/milim)** - local AI desktop workbench for multiple models
 - **[dybur](https://github.com/oshtz/dybur)** - local voice dictation
 - **[noder](https://github.com/oshtz/noder)** - node-based AI workflow canvas
 - **[imgimg](https://github.com/oshtz/imgimg)** - AI generation workspace for images, video, and audio
