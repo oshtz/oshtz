@@ -10,6 +10,7 @@ I make local-first AI and desktop tools, mostly around images, voice, files, not
 
 ## Projects
 
+- **[wheeljack](https://wheeljack.dev)** - local-first desktop workspace for coding agents
 - **[milim](https://github.com/bildhaus/milim)** - local AI desktop workbench for multiple models
 - **[dybur](https://github.com/oshtz/dybur)** - local voice dictation
 - **[noder](https://github.com/oshtz/noder)** - node-based AI workflow canvas
